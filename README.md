@@ -1,7 +1,7 @@
 # Praktikum
 
 
-## [Gold recovery](https://github.com/KrlvIvn/Praktikum/blob/main/Gold_recovery.ipynb)
+## [Gold recovery](https://github.com/KrlvIvn/Praktikum/blob/main/Gold_recovery_git.ipynb)
 ### Описание проекта
 Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий.
 Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки.
